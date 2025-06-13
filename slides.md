@@ -68,6 +68,10 @@ theme:
 - TryRead
 - Maybe
 - Clean Architecture
+  - Onion Architecture
+  - Hexagonal Architecture
+  - Ports and Adapters
+- Domain Driven Design
 
 <!-- end_slide -->
 
@@ -89,3 +93,7 @@ theme:
     - [PDF](https://en.bbv.ch/wp-content/uploads/2020/02/Software-Architektur-Clean-Architecture-Cheat-Sheet.pdf)
   - [Clean TDD/ATDD](https://en.bbv.ch/insights/publications/practical-cheat-sheet-on-clean-tdd-and-atdd/)
     - [PDF](https://en.bbv.ch/wp-content/uploads/2020/02/Software-Testing-Clean-TDD-ATDD.pdf)
+- [Design Patterns and Refactoring](https://sourcemaking.com/)
+<!-- new_line -->
+- [Boolean Is Not Your Friend](https://www.youtube.com/watch?v=SVew0lXNCqQ); Zoran Horvat; YouTube; Aug 2024
+- [Eliminate Data Clumps: Step-by-Step Refactoring Guide](https://www.youtube.com/watch?v=k1fIRmTsQMU); Zoran Horvat; YouTube; Nov 2024
