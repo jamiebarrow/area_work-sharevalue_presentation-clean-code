@@ -72,6 +72,8 @@ theme:
   - Hexagonal Architecture
   - Ports and Adapters
 - Domain Driven Design
+- DRY (Don't Repeat Yourself)
+- Rule of Three
 
 <!-- end_slide -->
 
