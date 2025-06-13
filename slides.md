@@ -8,8 +8,6 @@ theme:
     name: dark
 ---
 
-<!-- new_lines: 2 -->
-
 # SOLID Principles
 
 | when | who              | principle             |
@@ -49,7 +47,7 @@ theme:
   - cohesion
   - coupling
   - information hiding
-  - inheritence
+  - inheritance
   - composition
   - polymorphism
 - Design By Contract
@@ -69,6 +67,7 @@ theme:
 - Tester/Doer
 - TryRead
 - Maybe
+- Clean Architecture
 
 <!-- end_slide -->
 
@@ -80,3 +79,11 @@ theme:
 - [Encapsulation and SOLID](https://app.pluralsight.com/library/courses/encapsulation-solid); Mark Seeman; Pluralsight; Aug 2014
 - https://github.com/louthy/language-ext
 - https://github.com/vkhorikov/CSharpFunctionalExtensions
+<!-- new_line -->
+- Cheat sheets
+  - [Clean Code](https://en.bbv.ch/insights/publications/practical-cheat-sheet-on-clean-code-principles-and-implementation/)
+    - [PDF](https://en.bbv.ch/wp-content/uploads/2020/02/Clean-Code-Prinzipien-Umsetzung.pdf)
+  - [Clean Architecture](https://en.bbv.ch/insights/publications/practical-cheat-sheet-on-clean-architecture-principles-and-methods/)
+    - [PDF](https://en.bbv.ch/wp-content/uploads/2020/02/Software-Architektur-Clean-Architecture-Cheat-Sheet.pdf)
+  - [Clean TDD/ATDD](https://en.bbv.ch/insights/publications/practical-cheat-sheet-on-clean-tdd-and-atdd/)
+    - [PDF](https://en.bbv.ch/wp-content/uploads/2020/02/Software-Testing-Clean-TDD-ATDD.pdf)
