@@ -73,6 +73,8 @@ theme:
 
 # References
 
+- [Clean Coder](http://www.cleancoder.com/)
+<!-- new_line -->
 - [SOLID Principles for C# Developers](https://app.pluralsight.com/library/courses/csharp-solid-principles); Steve Smith (@ardalis); Pluralsight; Mar 2024
 - [SOLID course sample code](https://github.com/ardalis/SolidSample)
 <!-- new_line -->
